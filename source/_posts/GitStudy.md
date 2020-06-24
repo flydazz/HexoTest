@@ -1,7 +1,17 @@
+---
+title: GitStudy
+date: 2020-06-24 20:20:05
+categories: 
+    - Study Notes
+tags: 
+    - github
+    - note
+---
 ## 克隆远程库
 功能：①完整的克隆远程库为本地库，②为本地库新建origin别名，③初始化本地库
 ```
  git clone <远程库地址>
+ git clone -b <分支名> <远程库地址>
 ```
 
 ## 新建README
